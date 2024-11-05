@@ -1,3 +1,5 @@
-Isi dari file1.txt
+Isi file1.txt
 
 Edit 1: 1st iteration
+
+Edit 2: 2nd iteration in local
